@@ -18,6 +18,5 @@ export class Lightbike {
         if (player_id == 1){
             this.light.color = "green";
         }
-
     }
 }
